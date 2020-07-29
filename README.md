@@ -12,3 +12,8 @@ def loop_10m(a,b,c,..):
     b = a - c
     c = c * c
 ```
+
+The decorator will generate the following output for instance:
+
+```function loop_10m took 5.04 s```
+
